@@ -3,8 +3,7 @@
 Um projeto simples desenvolvido em **Python** que simula operações
 básicas de um sistema bancário via terminal.
 
-Este projeto foi criado com o objetivo de praticar **Automação com python: Projeto integrador
-**
+Este projeto foi criado com o objetivo de praticar **Automação com python: Projeto integrador**
 
 ------------------------------------------------------------------------
 
