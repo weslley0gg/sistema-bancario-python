@@ -98,5 +98,5 @@ Este projeto foi desenvolvido para:
 
 ## 👨‍💻 Autor
 
-**Weslei Santana**\
+**Weslei Santana**
 
